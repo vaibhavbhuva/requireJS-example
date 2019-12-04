@@ -1,4 +1,4 @@
-{{
+({
     "appDir": "../www",
     "baseUrl": "js/lib",
     "dir": "../www-build",
@@ -16,4 +16,4 @@
             "name": "app"
         }
     ]
-}}
+})

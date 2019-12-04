@@ -1,0 +1,24 @@
+{
+  "name": "requireJS-example",
+  "version": "1.0.0",
+  "description": "It simple requireJS Demo and how to use require.js.",
+  "main": "index.js",
+  "dependencies": {
+    "text": "github:requirejs/text"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavbhuva/requireJS-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavbhuva/requireJS-example/issues"
+  },
+  "homepage": "https://github.com/vaibhavbhuva/requireJS-example#readme"
+}

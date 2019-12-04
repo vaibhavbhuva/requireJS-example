@@ -12,7 +12,7 @@ From then on, you can use `r.js` on the command line to run the optimizer.
 If your JS project's main application file is called main.js, then do the following:
 
 ### Node
-`r.js main.js`
+`r.js -o tools/build.js`
 
 Requires Node 0.4 or later.
 
